@@ -19,7 +19,7 @@ Modern, responsive web interface for the Help Desk & Ticket Management System bu
 ## Environment Variables
 | Variable | Description | Default |
 |----------|-------------|---------|
-| `VITE_API_URL` | Base URL of the backend API | `http://localhost:8080/api` |
+| `VITE_API_URL` | Base URL of the backend API | `https://helpdesk-backend-1-wgcd.onrender.com/api` |
 
 ## Run Locally
 ```bash
